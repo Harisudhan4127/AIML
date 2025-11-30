@@ -1,0 +1,51 @@
+Question #,Question Text,Answer 1,Answer 2,Answer 3,Answer 4,Time Limit (sec),Correct Answer(s)
+1,Which of these is a mutable data type in Python?,tuple,str,int,list,20,4
+2,What is the output of len({1: 'a', 2: 'b'})?,TypeError,2,1,0,20,2
+3,Which keyword is used to define a function in Python?,def,lambda,func,define,20,1
+4,What is the output of if 5 > 2: print('Yes')?,Yes,False,None,Error,20,1
+5,Which method reads all lines from a file?,getlines(),readfile(),readall(),readlines(),20,4
+6,What error is raised when dividing by zero?,IndexError,ZeroDivisionError,SyntaxError,ValueError,20,2
+7,Which statement handles exceptions in Python?,try-except,error-handling,do-catch,if-else,20,1
+8,How do you import a module in Python?,include module,import module,require(module),using module,20,2
+9,Which command installs external Python packages?,pip install,install(),setup(),add_package(),20,1
+10,Which file extension is used for Python files?,.txt,.py,.cpp,.java,20,2
+11,Which function returns the data type of a variable?,class(),type(),data(),dtype(),20,2
+12,What is the default return value of a function with no return statement?,0,None,"",undefined,20,2
+13,Which of these is a numeric data type in Python?,string,float,char,bool,20,2
+14,How do you write a single-line comment in Python?,// comment,/* comment */,# comment,<!-- comment -->,20,3
+15,What will bool("") return?,True,False,None,Error,20,2
+16,How do you open a file in write mode?,open('file.txt', 'r'),write('file.txt'),open('file.txt', 'x'),open('file.txt', 'w'),20,4
+17,What is the purpose of finally in try-except blocks?,Ends loop,Skips code,Always runs,Catches errors,20,3
+18,What does range(3) return?,1,2,3,0,1,2,0,1,2,3,20,3
+19,Which function returns the length of a list?,size(),count(),len(),length(),20,3
+20,What type is the value True in Python?,int,bool,str,NoneType,20,2
+21,How do you install the numpy package?,import numpy,pip install numpy,setup numpy,conda install numpy,20,2
+22,What is the correct way to catch any exception?,except Exception:,except:,handle Exception,catch(Exception),20,1
+23,What keyword is used to exit a loop early?,break,stop,exit,quit,20,1
+24,Which function is used to get input from users?,get(),read(),input(),scan(),20,3
+25,What is the output of type([])?,list,tuple,set,dict,20,1
+26,What does str(10) return?,"10",None,10,int,20,1
+27,Which data type does not allow duplicates?,dict,set,tuple,list,20,2
+28,What does open('file.txt', 'a') do?,Deletes file,Reads file,Appends to file,Creates file,20,3
+29,What is the result of 2 ** 3?,9,5,6,8,20,4
+30,What module is used for math operations?,calc,numbers,formula,math,20,4
+31,Which operator is used for exponentiation in Python?,^,exp,**,^^,20,3
+32,What does the not keyword do in Python?,Negates a boolean,Checks null,Loops value,Returns true always,20,1
+33,Which of the following is a Python keyword?,repeat,for,loop,iterate,20,2
+34,What will print(4 // 2) output?,2.0,2,0,1,20,2
+35,Which of the following is a tuple?,{1, 2},(1, 2),[1, 2],<1, 2>,20,2
+36,How do you convert a list to a set?,list.set(),set(list),toSet(list),convert(list),20,2
+37,What does elif stand for?,else or,else if,if else,else then,20,2
+38,Which function gives the ASCII value of a character?,char(),ord(),ascii(),chr(),20,2
+39,Which module is used for working with dates?,calendar,time,datetime,date,20,3
+40,Which of the following is not a loop in Python?,repeat,while,nested for,for,20,1
+41,What does is keyword check?,Equality,Object identity,Type,Memory usage,20,2
+42,What is the output of bool(1)?,1,False,None,True,20,4
+43,What does isinstance(5, int) return?,Error,False,None,True,20,4
+44,Which keyword is used to skip the current iteration in a loop?,skip,pass,continue,exit,20,3
+45,Which method is used to add an element to a list?,push(),add(),insert(),append(),20,4
+46,What does list(range(3)) return?,[0, 1], [1, 2, 3], [0, 1, 2, 3], [0, 1, 2],20,4
+47,Which method removes the last item from a list?,remove(),delete(),pop(),drop(),20,3
+48,What is the result of 'Python'[::-1]?,Python,htyP,nohtyP,Error,20,3
+49,Which exception is raised when accessing a non-existent list index?,IndexError,KeyError,ValueError,AttributeError,20,1
+50,What is the purpose of with statement in file handling?,Write file,Creates file,Automatic file close,Read-only mode,20,3

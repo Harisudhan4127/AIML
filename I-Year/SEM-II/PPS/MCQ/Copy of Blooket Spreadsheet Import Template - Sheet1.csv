@@ -1,0 +1,107 @@
+"Blooket
+Import Template",,,,,,,
+Question #,Question Text,Answer 1,Answer 2,"Answer 3
+(Optional)","Answer 4
+(Optional)","Time Limit (sec)
+(Max: 300 seconds)","Correct Answer(s)
+(Only include Answer #)"
+1,Which of these is a mutable data type in Python?,list,tuple,str,int,20,1
+2,"What is the output of `len({1: 'a', 2: 'b'})`?",2,0,1,TypeError,20,1
+3,Which keyword is used to define a function in Python?,def,func,define,lambda,20,1
+4,What is the output of `if 5 > 2: print('Yes')`?,Yes,Error,FALSE,None,20,1
+5,Which method reads all lines from a file?,readlines(),readfile(),getlines(),readall(),20,1
+6,What error is raised when dividing by zero?,ZeroDivisionError,SyntaxError,ValueError,IndexError,20,1
+7,Which statement handles exceptions in Python?,try-except,do-catch,if-else,error-handling,20,1
+8,How do you import a module in Python?,import module,include module,require(module),using module,20,1
+9,Which command installs external Python packages?,pip install,install(),setup(),add_package(),20,1
+10,Which file extension is used for Python files?,.py,.java,.txt,.cpp,20,1
+11,Which function returns the data type of a variable?,type(),dtype(),data(),class(),20,1
+12,What is the default return value of a function with no return statement?,None,0,"""""",undefined,20,1
+13,Which of these is a numeric data type in Python?,float,char,string,bool,20,1
+14,How do you write a single-line comment in Python?,# comment,// comment,/* comment */,<!-- comment -->,20,1
+15,"What will `bool("""")` return?",FALSE,TRUE,None,Error,20,1
+16,How do you open a file in write mode?,"open('file.txt', 'w')","open('file.txt', 'r')","open('file.txt', 'x')",write('file.txt'),20,1
+17,What is the purpose of `finally` in try-except blocks?,Always runs,Catches errors,Skips code,Ends loop,20,1
+18,What does `range(3)` return?,"0,1,2","1,2,3","0,1,2,3","1,2",20,1
+19,Which function can return the length of a list?,len(),size(),length(),count(),20,1
+20,What type is the value `True` in Python?,bool,str,int,NoneType,20,1
+21,How do you install the `numpy` package?,pip install numpy,import numpy,setup numpy,conda install numpy,20,1
+22,What is the correct way to catch any exception?,except Exception:,catch(Exception),except:,handle Exception,20,1
+23,What keyword is used to exit a loop early?,break,stop,exit,quit,20,1
+24,Which function is used to get input from users?,input(),read(),scan(),get(),20,1
+25,What is the output of `type([])`?,list,tuple,dict,set,20,1
+26,What does `str(10)` return?,"""10""",10,None,int,20,1
+27,Which data type does not allow duplicates?,set,list,tuple,dict,20,1
+28,"What does `open('file.txt', 'a')` do?",Appends to file,Reads file,Deletes file,Creates file,20,1
+29,What is the result of `2 ** 3`?,8,6,9,5,20,1
+30,What module is used for math operations?,math,numbers,calc,formula,20,1
+31,,,,,,,
+32,,,,,,,
+33,,,,,,,
+34,,,,,,,
+35,,,,,,,
+36,,,,,,,
+37,,,,,,,
+38,,,,,,,
+39,,,,,,,
+40,,,,,,,
+41,,,,,,,
+42,,,,,,,
+43,,,,,,,
+44,,,,,,,
+45,,,,,,,
+46,,,,,,,
+47,,,,,,,
+48,,,,,,,
+49,,,,,,,
+50,,,,,,,
+51,,,,,,,
+52,,,,,,,
+53,,,,,,,
+54,,,,,,,
+55,,,,,,,
+56,,,,,,,
+57,,,,,,,
+58,,,,,,,
+59,,,,,,,
+60,,,,,,,
+61,,,,,,,
+62,,,,,,,
+63,,,,,,,
+64,,,,,,,
+65,,,,,,,
+66,,,,,,,
+67,,,,,,,
+68,,,,,,,
+69,,,,,,,
+70,,,,,,,
+71,,,,,,,
+72,,,,,,,
+73,,,,,,,
+74,,,,,,,
+75,,,,,,,
+76,,,,,,,
+77,,,,,,,
+78,,,,,,,
+79,,,,,,,
+80,,,,,,,
+81,,,,,,,
+82,,,,,,,
+83,,,,,,,
+84,,,,,,,
+85,,,,,,,
+86,,,,,,,
+87,,,,,,,
+88,,,,,,,
+89,,,,,,,
+90,,,,,,,
+91,,,,,,,
+92,,,,,,,
+93,,,,,,,
+94,,,,,,,
+95,,,,,,,
+96,,,,,,,
+97,,,,,,,
+98,,,,,,,
+99,,,,,,,
+100,,,,,,,
